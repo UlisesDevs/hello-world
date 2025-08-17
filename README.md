@@ -67,7 +67,7 @@ de nuevo el git commit -m "Auto correccion ejecutada con black y flake8"
 
 Tambien es conveniente poner la version que estamos utilizando de Python para evitar errores de compatibilidad.
 
-Ahora que creamos nuestro archivo .yaml y lo configuramos hay que ejecutar el siguiente comando para asegurarnos que todos los hooks se apliquen a todos los archivos existentes y no solo a los nuevos commits.
+Ahora que creamos nuestro archivo .yaml y lo configuramos hay que ejecutar el siguiente comando para asegurarnos que los hooks se apliquen a todos los archivos existentes y no solo a los nuevos commits.
 
     pre-commit install
     pre-commit run --all-files
