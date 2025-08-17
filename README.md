@@ -8,6 +8,12 @@ De esta manera crearemos nuestro entorno virtual y lo inicializaremos, recuerda 
     python -m venv .venv
     source .venv/bin/activate
 
+Recuerda que cada vez que cerremos la terminal y al volver a nuestro proyecto hay que ejecutar de nuevo el comando para inicializar el 
+entorno virtual.
+
+    source .venv/bin/activate
+
+
 ## Creamos nuestro .gitignore
 Procedemos a crear nuestro .gitignore con el siguiente contenido.
 
