@@ -1,0 +1,13 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+# Virtual env
+.venv/
+env/
+# Editor
+.vscode/
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
